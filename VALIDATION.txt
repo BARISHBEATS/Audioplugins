@@ -1,0 +1,11 @@
+Validation: 6 November 2026
+- JavaScript syntax check passed.
+- All relative HTML asset links resolve.
+- Original BARISH logo byte-for-byte verified against supplied HTML.
+- All four detail routes checked in browser; macOS/Windows buttons disabled.
+- All-Installer page contains all four products and disabled platform buttons.
+- Mobile navigation including Downloads checked at 390px.
+- Home and KEY BRO detail checked at 390px: no horizontal overflow.
+- Desktop home checked at 1440px: all images loaded, no horizontal overflow.
+- All four desktop preview frames: 434 x 313px; mobile: 160 x 147px.
+- No public hosting or GitHub publication performed.
